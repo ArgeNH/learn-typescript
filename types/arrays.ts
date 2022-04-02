@@ -4,6 +4,8 @@
 
    const villans = ['Omega Rojo', 'Dormammu', 'Duende Verde'];
 
-   villans.forEach(villan => console.log(villan.toUpperCase()))
+   villans.forEach(villan => console.log(villan.toUpperCase()));
+
+   numbers.forEach(villan => console.log(villan));
 
 })()
