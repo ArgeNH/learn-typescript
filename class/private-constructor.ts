@@ -28,8 +28,8 @@
     const apocalipsis2 = new Apocalipsis('Soy Apocalipsis.... el unico');
     const apocalipsis3 = new Apocalipsis('Soy Apocalipsis.... el unico'); */
 
-    console.log(apocalipsis);
-    console.log(apocalipsis2);
-    console.log(apocalipsis3);
+    //console.log(apocalipsis);
+    //console.log(apocalipsis2);
+    //console.log(apocalipsis3);
 
 })()
